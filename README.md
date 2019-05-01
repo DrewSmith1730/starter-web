@@ -10,6 +10,7 @@ changes to be compared
 
 ## How to Contribute
 
+you can comtribute by doing things and other stuff
 
 Sample website with plenty of files for demos
 
