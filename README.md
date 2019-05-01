@@ -12,3 +12,5 @@ changes to be compared
 
 
 Sample website with plenty of files for demos
+
+2019 Drew Smith
